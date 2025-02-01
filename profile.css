@@ -1,0 +1,24 @@
+#profileCard {
+    width: 300px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  a {
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(127, 127, 243);
+  }
+  
+  a :hover{
+    color: red;
+  }
